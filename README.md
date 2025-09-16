@@ -1,6 +1,6 @@
-# ML Study Assistant Bot 🤖
+# Telegram ToDo Bot 🤖
 
-A Telegram bot that helps you **track ML study tasks** and **log daily progress**.  
+A Telegram bot that helps you **track daily tasks** and **log daily progress**.  
 Perfect for staying consistent in your learning journey!
 
 ---
@@ -21,5 +21,5 @@ Perfect for staying consistent in your learning journey!
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/apurba_14/ML-Study-Assistant-Bot.git
-   cd ML-Study-Assistant-Bot
+   git clone https://github.com/apurba1914/TelegramToDoBot.git
+   cd TelegramToDoBot
