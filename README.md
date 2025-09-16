@@ -17,9 +17,21 @@ Perfect for staying consistent in your learning journey!
 
 ---
 
+## 📸 Screenshots
+
+### 1. Adding tasks and Completing Task and Reviewing
+![Add Log](screenshot_2.png)
+
+### 2. Adding Logs and Reviewing
+![Show Logs](screenshots/screenshot_1.png)
+
+---
+
 ## 🚀 Setup
 
 1. Clone the repo:
    ```bash
    git clone https://github.com/apurba1914/TelegramToDoBot.git
    cd TelegramToDoBot
+
+
